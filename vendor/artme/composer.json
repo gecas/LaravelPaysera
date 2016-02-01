@@ -1,0 +1,12 @@
+{
+    "name": "artme/laravel-paysera",
+    "description": "Paysera module for Laravel 5.1",
+    "authors": [
+        {
+            "name": "Algirdas Dumskis",
+            "email": "algirdasdum@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
